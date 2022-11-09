@@ -7,7 +7,7 @@ let userSurname = 'Bondarenko';
 console.log(userSurname)
 
 let userAge;
-userAge = '29'
+userAge = 29
 
 console.log(userAge)
 
@@ -37,6 +37,7 @@ let coordinatesCursor
 let test = 'Hello World!';
 console.log(test)
 
-let dateOfBirth = '4';
+let dateOfBirth = 4;
 
 console.log('dateOfBirth',dateOfBirth)
+console.log('typeof dateOfBirth' ,typeof dateOfBirth )
