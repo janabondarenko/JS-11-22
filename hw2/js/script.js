@@ -9,7 +9,7 @@ console.log(userSurname)
 let userAge;
 userAge = '29'
 
-console.log('userAge', userAge)
+console.log(userAge)
 
 // переменной, которая хранит нового пользователя
 
@@ -31,3 +31,12 @@ let employeeSalary
 // переменной, которая хранит координаты курсора (мыши)
 
 let coordinatesCursor
+
+
+
+let test = 'Hello World!';
+console.log(test)
+
+let dateOfBirth = '4';
+
+console.log('dateOfBirth',dateOfBirth)
