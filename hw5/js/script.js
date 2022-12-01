@@ -21,26 +21,24 @@
 // 	console.log(i + ' ');
 // }
 
-// let result = '';
-// let i = 0;
 
+
+
+// исправленное
+
+// let i = 9;
 // do {
-//   i = i + 1;
-//   result = result + i;
-// } while (i < 10);
+//    i++;
+//    console.log (i);
+// } while (i < 20);
 
-// console.log(result + '');
-
-
-// let result = '';
 // let i = 21;
-
 // do {
-//   i = i - 1;
-//   result = result + i;
-// } while (i = 10);
+//    i--;
+//    console.log (i);
+// } while (i > 10);
 
-// console.log(result + ' ');
+
 
 
 // Задание2
